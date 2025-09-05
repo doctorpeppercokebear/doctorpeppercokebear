@@ -5,7 +5,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=doctorpeppercokebear" alt="doctorpeppercokebear" />
   </a>
 </p>
-- 📫 How to reach me: **perkybear987@gmail.com**
+
+---
+<h3 align="left">📫 How to reach me: perkybear987@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,12 +44,15 @@
   <a href="https://keras.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/>
   </a>
-  <a href="https://python.langchain.com/en/latest/" target="_blank" rel="noreferrer">
-    <img src="Image/Langchain.png" alt="langchain" width="40" height="40" />
+  <a href="https://python.langchain.com/docs/introduction/" target="_blank" rel="noreferrer">
+    <img src="Image/langchain-color.png" alt="langchain" width="40" height="40" />
   </a>
-  <a href="https://python.langchain.com/en/latest/" target="_blank" rel="noreferrer">
-    <img src="Image/Langsmith.png" alt="langsmith" width="40" height="40" />
+  <a href="https://docs.langchain.com/langsmith/home" target="_blank" rel="noreferrer">
+    <img src="Image/langsmith-color.png" alt="langsmith" width="40" height="40" />
+  <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer">
+    <img src="Image/langgraph-color.png" alt="langgraph" width="40" height="40" />
   </a>
+
 </p>
 
 <h3 align="left">Data Analysis & Visualization:</h3>
@@ -89,7 +94,7 @@
     <img src="Image/Jira.png" alt="jira" width="40" height="40"/>
   </a>
   <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
-    <img src="Image/confluence.jpg" alt="confluence" width="40" height="40"/>
+    <img src="Image/confluence-original.svg" alt="confluence" width="40" height="40"/>
   </a>
   <a href="https://slack.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="slack" width="40" height="40" />
@@ -99,8 +104,9 @@
   </a>
 </p>
 
+---
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doctorpeppercokebear&show_icons=true&locale=en&layout=compact" alt="doctorpeppercokebear" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=doctorpeppercokebear&show_icons=true&locale=en&layout=compact" alt="doctorpeppercokebear" />
 </p>
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doctorpeppercokebear&show_icons=true&locale=en" alt="doctorpeppercokebear" />
