@@ -43,7 +43,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/>
   </a>
   <a href="https://python.langchain.com/en/latest/" target="_blank" rel="noreferrer">
-    <img src="https://python.langchain.com/_static/langchain_icon.svg" alt="langchain" width="40" height="40" />
+    <img src="Image/Langchain.png" alt="langchain" width="40" height="40" />
+  </a>
+  <a href="https://python.langchain.com/en/latest/" target="_blank" rel="noreferrer">
+    <img src="Image/Langsmith.png" alt="langsmith" width="40" height="40" />
   </a>
 </p>
 
@@ -83,10 +86,10 @@
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/718/0/png-transparent-jira-software-project-management-agile-software-development-software-development-management-software-computer-icon.png" alt="jira" width="40" height="40"/>
+    <img src="Image/Jira.png" alt="jira" width="40" height="40"/>
   </a>
   <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/205/293/png-transparent-atlassian-confluence-software-miscellaneous-blue-angle-text-logo-thumbnail.png" alt="confluence" width="40" height="40"/>
+    <img src="Image/confluence.jpg" alt="confluence" width="40" height="40"/>
   </a>
   <a href="https://slack.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="slack" width="40" height="40" />
