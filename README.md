@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 모민규</h1>
-<h3 align="center">AI 엔지니어로 취업을 준비하고 있습니다.</h3>
+<h3 align="center">AI 엔지니어</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=doctorpeppercokebear" alt="doctorpeppercokebear" />
